@@ -15,7 +15,7 @@ Android 4.0.3, 4.0.4 or above.
 
 ## Authors
 
-* **droidapps4unme** - *Initial work* - [DriodApps4UnMe](https://github.com/Droidapps4unme)
+* **[Apps4UnMe](https://apps4unme.blogspot.com)** - *Initial work* - [Source Code](https://github.com/apps4unme)
 
 
 ## License
